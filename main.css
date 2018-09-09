@@ -1,0 +1,9 @@
+.name {
+    color: red;
+    text-decoration: none;
+}
+#another_name {
+    color: green;
+    background-color: blue;
+    text-decoration: none;
+}
